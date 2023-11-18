@@ -1,4 +1,2 @@
 firstline
 secondline
-thirdline
-thirdline
