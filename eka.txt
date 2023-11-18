@@ -1,4 +1,4 @@
 ekalta branchilta eka commit
 tokalta oikea eka
 tokalta toka
-kolmannelta eka
+tokalta kolmas
